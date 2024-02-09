@@ -436,7 +436,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔥  ↭ Main Channel ↭  🔥', url=f"https://t.me/Movie_update_channel1"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/LazyDeveloper')
+            InlineKeyboardButton('🔥  ↭ Movie Group ↭  🔥', url='https://t.me/All_Movie_Search_Hindi_Group')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
