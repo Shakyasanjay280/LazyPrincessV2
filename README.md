@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
+  <img src="https://mallucampaign.in/images/img_1707465648.jpg" alt="PROFESOR LOGO">
 </p>
 <h1 align="center">
   <b> Lazy PrincessV2.0 </b>
